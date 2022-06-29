@@ -41,6 +41,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkrChowdhury&layout=compact)](https://github.com/SkrChowdhury/github-readme-stats)
 
+![Sakkar Chowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkrChowdhury&show_icons=true&theme=radical)
+
 
 
 [youtube]: https://www.youtube.com/SakkhorChowdhury
