@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skrchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="skrchowdhury" /> </p>
 
-- 👀 I’m interested in **🖥 Web Development & 📱 Mobile App Development.**
+- 👀 I’m interested in : **🖥 Web Development & 📱 Mobile App Development.**
 
-- 🌱 I’m currently learning **🌱 Flutter 🎇 React and 🧶 Node.js.**
+- 🌱 I’m currently learning : **🌱 Flutter 🎇 React and 🧶 Node.js.**
 
-- 🥅 2022 Goals **Learn more about web3**
+- 🥅 2022 Goals : **Learn more about web3**
 
-- 🤝 I’m looking to Collaborate with **other developers.**
+- 🤝 I’m looking to Collaborate with : **other developers.**
 
-- 👨‍💻 All of my projects are available at [https://skrchowdhury.github.io/Portfolio/](https://skrchowdhury.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at : [https://skrchowdhury.github.io/Portfolio/](https://skrchowdhury.github.io/Portfolio/)
 
-- ⚡ Fun fact **I love to sing, draw and read books.**
+- ⚡ Fun fact : **I love to sing, draw and read books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
