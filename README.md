@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skrchowdhury&show_icons=true&locale=en&layout=compact" alt="skrchowdhury" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skrchowdhury&show_icons=true&locale=en" alt="skrchowdhury" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skrchowdhury&" alt="skrchowdhury" /></p>
