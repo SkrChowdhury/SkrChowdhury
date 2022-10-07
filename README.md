@@ -23,13 +23,13 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=dark"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=skrchowdhury&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=skrchowdhury&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=skrchowdhury&show_icons=true&theme=dark" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=skrchowdhury&theme=dark" />
 </p>
 
 ### ✍️Random Dev Quote
