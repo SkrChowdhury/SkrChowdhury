@@ -23,7 +23,7 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
