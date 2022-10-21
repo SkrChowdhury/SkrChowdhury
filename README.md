@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 👀 I’m interested in : **🖥 Web Development & 📱 Mobile App Development.**
-- 🌱 I’m currently learning : **🌱 Flutter 🎇 React and 🧶 Node.js.**
+- 🌱 I’m currently learning : **🌱 React-Native 🎇 React JS and 🧶 Node JS**
 - 🥅 2022 Goals : **Learn more about web3**
 - 🤝 I’m looking to Collaborate with : **other developers.**
 - 👨‍💻 All of my projects are available at : [https://skrchowdhury.github.io/Portfolio/](https://skrchowdhury.github.io/Portfolio/)
