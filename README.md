@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning : **🌱 React-Native 🎇 React JS and 🧶 Node JS**
 - 🥅 2022 Goals : **Learn more about web3**
 - 🤝 I’m looking to Collaborate with : **other developers.**
-- 👨‍💻 All of my projects are available at : [https://skrchowdhury.github.io/Portfolio/](https://skrchowdhury.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at : [https://skrchowdhury.com](https://skrchowdhury.netlify.app/)
 - ⚡ Fun fact : **I love to sing, draw and read books.**
 -  📫 How to reach me: Check social links below.
 
