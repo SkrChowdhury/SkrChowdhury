@@ -23,6 +23,7 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
+<a width="20%"  href="https://app.daily.dev/SkrChowdhury"><img width="25%" src="https://api.daily.dev/devcards/85a7a01f4eb44b3b8857ad54557d7085.png?r=txc" alt="Sakkar Chowdhury's Dev Card"/></a>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=vue"/>
 </p>
 
