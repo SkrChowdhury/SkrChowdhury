@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 
-<p class="d-flex">
+<p style="display: flex; align-items: flex-start;">
 	<p width="60%">
 	- 👀 I’m interested in : **🖥 Web Development & 📱 Mobile App Development.**
 	- 🌱 I’m currently learning : **🌱 React-Native 🎇 React JS and 🧶 Node JS(Express/Nest)**
