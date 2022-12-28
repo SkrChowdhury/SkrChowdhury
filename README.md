@@ -23,8 +23,8 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center d-flex">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=vue"/>
-	<a  href="https://app.daily.dev/SkrChowdhury"><img width="48%" src="https://api.daily.dev/devcards/85a7a01f4eb44b3b8857ad54557d7085.png?r=txc" alt="Sakkar Chowdhury's Dev Card"/></a>
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=vue"/>
+	<a  href="https://app.daily.dev/SkrChowdhury"><img width="25%" src="https://api.daily.dev/devcards/85a7a01f4eb44b3b8857ad54557d7085.png?r=txc" alt="Sakkar Chowdhury's Dev Card"/></a>
 </p>
 
 ## 📟 GitHub Stats
