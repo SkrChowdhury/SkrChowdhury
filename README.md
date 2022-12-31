@@ -5,6 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skrchowdhury&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
+
+<div align="left">
+<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
+</div>
+
 # 💫 About Me :
 - 👀 I’m interested in : **🖥 Web Development & 📱 Mobile App Development.**
 - 🌱 I’m currently learning : **🌱 React-Native 🎇 React JS and 🧶 Node JS(Express/Nest)**
