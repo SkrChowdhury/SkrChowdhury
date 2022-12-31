@@ -5,21 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skrchowdhury&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
-
-
-
 # 💫 About Me :
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
-<br/>
-## 👀 I’m interested in : **🖥 Web Development & 📱 Mobile App Development.**
-## 🌱 I’m currently learning : **🌱 React-Native 🎇 React JS and 🧶 Node JS(Express/Nest)**
-## 🥅 2022 Goals : **Learn more about web3**
-## 🤝 I’m looking to Collaborate with : **other developers.**
-## 👨‍💻 All of my projects are available at : [https://skrchowdhury.com](https://skrchowdhury.netlify.app/)
-## ⚡ Fun fact : **I love to sing, draw and read books.**
-##  📫 How to reach me: Check social links below.
+- 👀 I’m interested in : **🖥 Web Development & 📱 Mobile App Development.**
+- 🌱 I’m currently learning : **🌱 React-Native 🎇 React JS and 🧶 Node JS(Express/Nest)**
+- 🥅 2022 Goals : **Learn more about web3**
+- 🤝 I’m looking to Collaborate with : **other developers.**
+- 👨‍💻 All of my projects are available at : [https://skrchowdhury.com](https://skrchowdhury.netlify.app/)
+- ⚡ Fun fact : **I love to sing, draw and read books.**
+- 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/skrchowdhury) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/skrchowdhury)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/sakkhorchowdhury) 
