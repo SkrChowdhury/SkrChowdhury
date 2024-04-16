@@ -8,7 +8,7 @@
 # 💫 About Me :
 - 👀 I’m interested in : **🖥 Web Development & 📱 Mobile App Development.**
 - 🌱 I’m currently learning : **🌱 React-Native 🎇 React JS and 🧶 Node JS(Express/Nest)**
-- 🥅 2023 Goals : **involve more in Backend Development**
+- 🥅 2024 Goals : **involve more in Backend Development**
 - 🤝 I’m looking to Collaborate with : **other developers.**
 - 👨‍💻 All of my projects are available at : [https://skrchowdhury.com](https://skrchowdhury.netlify.app/)
 - ⚡ Fun fact : **I love to sing, draw and read books.**
