@@ -38,7 +38,7 @@
 
 <!--   green snake -->
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/skrchowdhury/skrchowdhury/output/github-contribution-grid-snake.svg)
+![skrchowdhury's github activity graph](https://raw.githubusercontent.com/skrchowdhury/skrchowdhury/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
