@@ -32,11 +32,6 @@
 	<img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=skrchowdhury&theme=dark" />
 </p>
 
-<!--   GitHub stats graph -->
-
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
 
 ![skrchowdhury's github activity graph](https://raw.githubusercontent.com/skrchowdhury/skrchowdhury/output/github-contribution-grid-snake.svg)
 
