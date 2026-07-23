@@ -7,9 +7,7 @@
 -->
 
 <!-- ============ HEADER BANNER ============ -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sakkar%20Chowdhury&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Mobile%20%26%20Web%20Developer%20from%20Bangladesh&descSize=18&descAlignY=56" alt="header banner" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sakkar%20Chowdhury&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Mobile%20%26%20Web%20Developer%20from%20Bangladesh&descSize=18&descAlignY=56" alt="Sakkar Chowdhury" />
 
 <!-- ============ TYPING ANIMATION ============ -->
 <div align="center">
@@ -32,10 +30,9 @@
 
 </div>
 
-<!-- ============ DIVIDER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" alt="divider" />
+---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 ```typescript
 const sakkar = {
@@ -50,10 +47,9 @@ const sakkar = {
 };
 ```
 
-<!-- ============ DIVIDER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" alt="divider" />
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Tech Stack
+## 🧰 &nbsp;Tech Stack
 
 <div align="center">
 
@@ -96,15 +92,14 @@ const sakkar = {
 
 </div>
 
-<!-- ============ DIVIDER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" alt="divider" />
+---
 
-## <img src="https://media.giphy.com/media/W5eBHQzXk6c7C/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skrchowdhury&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrchowdhury&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skrchowdhury&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrchowdhury&layout=compact&hide_border=true&cache_seconds=86400&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 
 <br/>
 
@@ -122,10 +117,9 @@ const sakkar = {
 
 </div>
 
-<!-- ============ DIVIDER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" alt="divider" />
+---
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;Dev Quote
+## 💬 &nbsp;Dev Quote
 
 <div align="center">
 
@@ -134,7 +128,7 @@ const sakkar = {
 </div>
 
 <!-- ============ FOOTER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=75&animation=twinkling" alt="footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=75&animation=twinkling" alt="footer" />
 
 <div align="center">
   <b>💜 If you like my work, leave a star on my repos — it means a lot!</b>
