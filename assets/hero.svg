@@ -1,0 +1,109 @@
+<svg viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <!-- dot-grid sketch paper -->
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#EDE6D8" opacity="0.07"/>
+    </pattern>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#14141F"/>
+      <stop offset="1" stop-color="#0C0C14"/>
+    </linearGradient>
+    <style>
+      :root{ --pink:#FF5D73; --blue:#5468FF; --paper:#EDE6D8; }
+      .draw{ stroke-dasharray:1600; stroke-dashoffset:1600; animation:draw 2.2s ease forwards .3s; }
+      @keyframes draw{ to{ stroke-dashoffset:0; } }
+      .rise{ opacity:0; transform:translateY(14px); animation:rise .9s ease forwards; }
+      .d1{ animation-delay:.15s } .d2{ animation-delay:.32s } .d3{ animation-delay:.5s } .d4{ animation-delay:.7s }
+      @keyframes rise{ to{ opacity:1; transform:translateY(0); } }
+      .float{ transform-origin:center; animation:float 6s ease-in-out infinite; }
+      @keyframes float{ 0%,100%{ transform:translateY(0) } 50%{ transform:translateY(-7px) } }
+      .blink{ animation:blink 1.05s steps(1) infinite; }
+      @keyframes blink{ 0%,50%{ opacity:1 } 51%,100%{ opacity:0 } }
+      .jit{ animation:jit 5s ease-in-out infinite; }
+      @keyframes jit{ 0%,100%{ transform:translate(6px,6px) } 50%{ transform:translate(4px,7px) } }
+      @media (prefers-reduced-motion: reduce){
+        .draw,.rise,.float,.blink,.jit{ animation:none; opacity:1; transform:none; stroke-dashoffset:0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="380" rx="20" fill="url(#edge)"/>
+  <rect width="1200" height="380" rx="20" fill="url(#dots)"/>
+  <rect x="1.5" y="1.5" width="1197" height="377" rx="19" fill="none" stroke="#FF5D73" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <!-- corner registration marks (riso print cue) -->
+  <g stroke="#5468FF" stroke-width="1.4" opacity="0.5">
+    <path d="M28 40 h18 M37 31 v18"/><path d="M1172 40 h-18 M1163 31 v18"/>
+    <path d="M28 340 h18 M37 331 v18"/><path d="M1172 340 h-18 M1163 331 v18"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text class="rise d1" x="70" y="86" fill="#EDE6D8" opacity="0.55" font-size="15" letter-spacing="7" font-weight="600">MOBILE&#160;&#160;·&#160;&#160;WEB&#160;&#160;·&#160;&#160;INK</text>
+
+  <!-- WORDMARK with riso misregistration: pink ghost offset behind, blue on top -->
+  <g font-weight="900" font-size="96" letter-spacing="-2">
+    <g class="jit" fill="#FF5D73" opacity="0.85">
+      <text x="70" y="185">SAKKAR</text>
+      <text x="70" y="278">CHOWDHURY</text>
+    </g>
+    <g fill="#5468FF">
+      <text class="rise d2" x="70" y="179">SAKKAR</text>
+      <text class="rise d3" x="70" y="272">CHOWDHURY</text>
+    </g>
+  </g>
+
+  <!-- terminal role line + blinking cursor -->
+  <g class="rise d4" font-family="'Courier New', monospace" font-size="22" font-weight="700">
+    <text x="72" y="330" fill="#EDE6D8" opacity="0.85">&gt; building for phones &amp; the web</text>
+    <rect x="470" y="313" width="13" height="22" fill="#FF5D73" class="blink"/>
+  </g>
+
+  <!-- ============ SIGNATURE LINE-ART CLUSTER ============ -->
+  <g transform="translate(892,60)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- pink ghost copy for riso feel -->
+    <g stroke="#FF5D73" stroke-opacity="0.5" stroke-width="4" transform="translate(6,6)">
+      <rect x="8" y="18" width="176" height="126" rx="10"/>
+      <rect x="196" y="42" width="90" height="168" rx="16"/>
+    </g>
+
+    <g class="float">
+      <!-- browser window (web) -->
+      <g class="draw" stroke="#EDE6D8" stroke-width="4">
+        <rect x="8" y="18" width="176" height="126" rx="10"/>
+        <path d="M8 46 h176"/>
+        <circle cx="24" cy="32" r="3.5" fill="#FF5D73" stroke="none"/>
+        <circle cx="38" cy="32" r="3.5" fill="#5468FF" stroke="none"/>
+        <circle cx="52" cy="32" r="3.5" fill="#EDE6D8" stroke="none"/>
+        <path d="M28 74 h68 M28 96 h108 M28 118 h82" stroke-opacity="0.7"/>
+      </g>
+      <!-- phone (mobile) -->
+      <g class="draw" stroke="#5468FF" stroke-width="4.5">
+        <rect x="196" y="42" width="90" height="168" rx="16" fill="#0C0C14"/>
+        <path d="M227 56 h28"/>
+        <!-- little sketch on the screen -->
+        <path d="M212 122 q14 -32 28 0 t28 0" stroke="#FF5D73"/>
+        <path d="M214 158 h54 M214 176 h38" stroke="#EDE6D8" stroke-opacity="0.75" stroke-width="3.5"/>
+      </g>
+
+      <!-- hobby glyphs in a tidy row: sing · read · draw -->
+      <g stroke-width="3.6" class="draw" transform="translate(0,232)">
+        <!-- music note (sing) -->
+        <g stroke="#FF5D73" transform="translate(30,0)">
+          <path d="M6 34 v-32 l26 -7 v32"/>
+          <ellipse cx="0" cy="36" rx="8" ry="6" fill="#FF5D73" stroke="none"/>
+          <ellipse cx="26" cy="29" rx="8" ry="6" fill="#FF5D73" stroke="none"/>
+        </g>
+        <!-- open book (read) -->
+        <g stroke="#EDE6D8" transform="translate(118,4)">
+          <path d="M0 6 q17 -9 32 0 q15 -9 32 0 v34 q-17 -9 -32 0 q-15 -9 -32 0 z"/>
+          <path d="M32 6 v34"/>
+        </g>
+        <!-- pencil (draw) -->
+        <g stroke="#5468FF" transform="translate(228,2)">
+          <path d="M0 42 l42 -42 13 13 -42 42 -17 4 z"/>
+          <path d="M33 9 l13 13"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
