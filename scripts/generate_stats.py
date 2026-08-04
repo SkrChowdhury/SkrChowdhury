@@ -74,7 +74,7 @@ def render(d):
 
     # left stat grid (2x2)
     cells=[]
-    gx, gy, cw, ch = 44, 96, 152, 66
+    gx, gy, cw, ch = 44, 128, 152, 62
     for i,(label,val) in enumerate(stats):
         x = gx + (i%2)*cw; y = gy + (i//2)*ch
         dot = PINK if i%2==0 else BLUE
@@ -86,13 +86,13 @@ def render(d):
     </g>''')
 
     # right language bar
-    bx, by, bw, bh = 400, 118, 316, 18
+    bx, by, bw, bh = 400, 128, 316, 18
     segs, legend, acc = [], [], 0.0
     for i,(name,pct) in enumerate(d["langs"]):
         w = bw * (pct/100.0)
         col = color_for(name, i)
         segs.append(f'<rect x="{bx+acc:.1f}" y="{by}" width="{max(w-2,1):.1f}" height="{bh}" rx="3" fill="{col}"/>')
-        col_x = bx + (i%2)*160; col_y = 168 + (i//2)*24
+        col_x = bx + (i%2)*160; col_y = 180 + (i//2)*24
         legend.append(f'''<g transform="translate({col_x},{col_y})">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="{col}"/>
         <text x="16" y="0" font-size="12.5" fill="{PAPER}" opacity=".85">{esc(name)} <tspan opacity=".55">{pct}%</tspan></text></g>''')
@@ -116,7 +116,7 @@ def render(d):
   <text x="44" y="80" font-size="22" font-weight="900" fill="{PINK}">{esc(USER)}</text>
   <line x1="380" y1="60" x2="380" y2="230" stroke="{PAPER}" stroke-opacity=".12"/>
   {''.join(cells)}
-  <text x="400" y="96" font-size="12" letter-spacing="4" font-weight="700" fill="{PAPER}" opacity=".55" font-family="'Courier New',monospace">TOP LANGUAGES</text>
+  <text x="400" y="104" font-size="12" letter-spacing="4" font-weight="700" fill="{PAPER}" opacity=".55" font-family="'Courier New',monospace">TOP LANGUAGES</text>
   <rect x="{bx}" y="{by}" width="{bw}" height="{bh}" rx="4" fill="{PAPER}" opacity=".08"/>
   {''.join(segs)}
   {''.join(legend)}
