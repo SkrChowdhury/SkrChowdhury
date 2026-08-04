@@ -86,6 +86,8 @@ const sakkar = {
 <br/>
 
 ### <samp>// stats</samp>
+<!-- RELIABILITY: replace `github-readme-stats.vercel.app` below with your own
+     self-hosted instance (e.g. your-stats.vercel.app) so these never rate-limit. -->
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=skrchowdhury&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=FF5D73&icon_color=5468FF&text_color=EDE6D8&bg_color=0E0E16" alt="stats"/>
@@ -112,28 +114,6 @@ const sakkar = {
 
 <br/>
 
-### <samp>// summary cards</samp>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=github_dark" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skrchowdhury&theme=github_dark" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skrchowdhury&theme=github_dark" height="200"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skrchowdhury&theme=github_dark" height="200"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skrchowdhury&theme=github_dark&utcOffset=6" height="200"/>
-</p>
-
-<br/>
-
-### <samp>// trophies</samp>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skrchowdhury&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies"/>
-</p>
-
-<br/>
-
 ### <samp>// dev quote</samp>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
@@ -149,6 +129,27 @@ const sakkar = {
   <a href="https://github.com/skrchowdhury/REPO_TWO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=skrchowdhury&repo=REPO_TWO&hide_border=true&title_color=FF5D73&icon_color=5468FF&text_color=EDE6D8&bg_color=0E0E16"/>
   </a>
+</p>
+============================================================ -->
+
+<!-- ============================================================
+     OPTIONAL EXTRAS — these use shared *.vercel.app instances that
+     rate-limit and show as broken images. Re-enable ONLY after you
+     self-host them (see github-profile-summary-cards / -trophy repos),
+     then swap the domains below to your own instances.
+
+### // summary cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skrchowdhury&theme=github_dark" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skrchowdhury&theme=github_dark" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skrchowdhury&theme=github_dark" height="200"/>
+</p>
+
+### // trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skrchowdhury&theme=onedark&no-frame=true&no-bg=true&column=7" alt="trophies"/>
 </p>
 ============================================================ -->
 
