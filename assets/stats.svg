@@ -36,12 +36,12 @@
     </g>
   <text x="400" y="96" font-size="12" letter-spacing="4" font-weight="700" fill="#EDE6D8" opacity=".55" font-family="'Courier New',monospace">TOP LANGUAGES</text>
   <rect x="400" y="118" width="316" height="18" rx="4" fill="#EDE6D8" opacity=".08"/>
-  <rect x="400.0" y="118" width="185.1" height="18" rx="3" fill="#F1E05A"/><rect x="587.1" y="118" width="40.3" height="18" rx="3" fill="#563D7C"/><rect x="629.4" y="118" width="38.4" height="18" rx="3" fill="#3178C6"/><rect x="669.9" y="118" width="23.0" height="18" rx="3" fill="#E34C26"/><rect x="694.8" y="118" width="6.2" height="18" rx="3" fill="#B07219"/><rect x="703.0" y="118" width="3.1" height="18" rx="3" fill="#A855F7"/>
+  <rect x="400.0" y="118" width="184.4" height="18" rx="3" fill="#F1E05A"/><rect x="586.4" y="118" width="40.0" height="18" rx="3" fill="#563D7C"/><rect x="628.5" y="118" width="38.4" height="18" rx="3" fill="#3178C6"/><rect x="668.9" y="118" width="23.0" height="18" rx="3" fill="#E34C26"/><rect x="693.9" y="118" width="6.2" height="18" rx="3" fill="#B07219"/><rect x="702.1" y="118" width="3.1" height="18" rx="3" fill="#A855F7"/>
   <g transform="translate(400,168)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#F1E05A"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">JavaScript <tspan opacity=".55">59.2%</tspan></text></g><g transform="translate(560,168)">
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">JavaScript <tspan opacity=".55">59.0%</tspan></text></g><g transform="translate(560,168)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#563D7C"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">CSS <tspan opacity=".55">13.4%</tspan></text></g><g transform="translate(400,192)">
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">CSS <tspan opacity=".55">13.3%</tspan></text></g><g transform="translate(400,192)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#3178C6"/>
         <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">TypeScript <tspan opacity=".55">12.8%</tspan></text></g><g transform="translate(560,192)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#E34C26"/>
