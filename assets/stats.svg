@@ -20,7 +20,7 @@
       <text x="14" y="20" font-size="12" font-family="'Courier New',monospace" fill="#EDE6D8" opacity=".78">stars earned</text>
     </g>
     <g transform="translate(196,128)">
-      <text x="0" y="0" font-size="30" font-weight="900" fill="#5468FF">165</text>
+      <text x="0" y="0" font-size="30" font-weight="900" fill="#5468FF">166</text>
       <rect x="1" y="10" width="7" height="7" rx="1.5" fill="#5468FF"/>
       <text x="14" y="20" font-size="12" font-family="'Courier New',monospace" fill="#EDE6D8" opacity=".78">public repos</text>
     </g>
@@ -36,19 +36,19 @@
     </g>
   <text x="400" y="104" font-size="12" letter-spacing="4" font-weight="700" fill="#EDE6D8" opacity=".55" font-family="'Courier New',monospace">TOP LANGUAGES</text>
   <rect x="400" y="128" width="316" height="18" rx="4" fill="#EDE6D8" opacity=".08"/>
-  <rect x="400.0" y="128" width="144.6" height="18" rx="3" fill="#F1E05A"/><rect x="546.6" y="128" width="95.6" height="18" rx="3" fill="#3178C6"/><rect x="644.3" y="128" width="30.9" height="18" rx="3" fill="#563D7C"/><rect x="677.1" y="128" width="17.6" height="18" rx="3" fill="#E34C26"/><rect x="696.7" y="128" width="4.3" height="18" rx="3" fill="#B07219"/><rect x="703.0" y="128" width="1.8" height="18" rx="3" fill="#A855F7"/>
+  <rect x="400.0" y="128" width="127.9" height="18" rx="3" fill="#3178C6"/><rect x="529.9" y="128" width="122.8" height="18" rx="3" fill="#F1E05A"/><rect x="654.7" y="128" width="25.5" height="18" rx="3" fill="#563D7C"/><rect x="682.2" y="128" width="14.1" height="18" rx="3" fill="#E34C26"/><rect x="698.3" y="128" width="3.4" height="18" rx="3" fill="#B07219"/><rect x="703.7" y="128" width="1.2" height="18" rx="3" fill="#A855F7"/>
   <g transform="translate(400,180)">
-        <rect x="0" y="-9" width="10" height="10" rx="2" fill="#F1E05A"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">JavaScript <tspan opacity=".55">46.4%</tspan></text></g><g transform="translate(560,180)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#3178C6"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">TypeScript <tspan opacity=".55">30.9%</tspan></text></g><g transform="translate(400,204)">
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">TypeScript <tspan opacity=".55">41.1%</tspan></text></g><g transform="translate(560,180)">
+        <rect x="0" y="-9" width="10" height="10" rx="2" fill="#F1E05A"/>
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">JavaScript <tspan opacity=".55">39.5%</tspan></text></g><g transform="translate(400,204)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#563D7C"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">CSS <tspan opacity=".55">10.4%</tspan></text></g><g transform="translate(560,204)">
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">CSS <tspan opacity=".55">8.7%</tspan></text></g><g transform="translate(560,204)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#E34C26"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">HTML <tspan opacity=".55">6.2%</tspan></text></g><g transform="translate(400,228)">
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">HTML <tspan opacity=".55">5.1%</tspan></text></g><g transform="translate(400,228)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#B07219"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">Java <tspan opacity=".55">2.0%</tspan></text></g><g transform="translate(560,228)">
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">Java <tspan opacity=".55">1.7%</tspan></text></g><g transform="translate(560,228)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#A855F7"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">Objective-C <tspan opacity=".55">1.2%</tspan></text></g>
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">Objective-C <tspan opacity=".55">1.0%</tspan></text></g>
   
 </svg>
