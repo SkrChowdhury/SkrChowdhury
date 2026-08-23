@@ -36,19 +36,19 @@
     </g>
   <text x="400" y="104" font-size="12" letter-spacing="4" font-weight="700" fill="#EDE6D8" opacity=".55" font-family="'Courier New',monospace">TOP LANGUAGES</text>
   <rect x="400" y="128" width="316" height="18" rx="4" fill="#EDE6D8" opacity=".08"/>
-  <rect x="400.0" y="128" width="178.1" height="18" rx="3" fill="#F1E05A"/><rect x="580.1" y="128" width="40.3" height="18" rx="3" fill="#563D7C"/><rect x="622.5" y="128" width="37.2" height="18" rx="3" fill="#3178C6"/><rect x="661.6" y="128" width="30.5" height="18" rx="3" fill="#E34C26"/><rect x="694.2" y="128" width="5.9" height="18" rx="3" fill="#B07219"/><rect x="702.1" y="128" width="3.1" height="18" rx="3" fill="#A855F7"/>
+  <rect x="400.0" y="128" width="177.5" height="18" rx="3" fill="#F1E05A"/><rect x="579.5" y="128" width="40.3" height="18" rx="3" fill="#563D7C"/><rect x="621.8" y="128" width="37.2" height="18" rx="3" fill="#3178C6"/><rect x="661.0" y="128" width="31.5" height="18" rx="3" fill="#E34C26"/><rect x="694.5" y="128" width="5.9" height="18" rx="3" fill="#B07219"/><rect x="702.4" y="128" width="2.7" height="18" rx="3" fill="#A855F7"/>
   <g transform="translate(400,180)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#F1E05A"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">JavaScript <tspan opacity=".55">57.0%</tspan></text></g><g transform="translate(560,180)">
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">JavaScript <tspan opacity=".55">56.8%</tspan></text></g><g transform="translate(560,180)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#563D7C"/>
         <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">CSS <tspan opacity=".55">13.4%</tspan></text></g><g transform="translate(400,204)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#3178C6"/>
         <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">TypeScript <tspan opacity=".55">12.4%</tspan></text></g><g transform="translate(560,204)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#E34C26"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">HTML <tspan opacity=".55">10.3%</tspan></text></g><g transform="translate(400,228)">
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">HTML <tspan opacity=".55">10.6%</tspan></text></g><g transform="translate(400,228)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#B07219"/>
         <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">Java <tspan opacity=".55">2.5%</tspan></text></g><g transform="translate(560,228)">
         <rect x="0" y="-9" width="10" height="10" rx="2" fill="#A855F7"/>
-        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">Objective-C <tspan opacity=".55">1.6%</tspan></text></g>
+        <text x="16" y="0" font-size="12.5" fill="#EDE6D8" opacity=".85">Objective-C <tspan opacity=".55">1.5%</tspan></text></g>
   
 </svg>
