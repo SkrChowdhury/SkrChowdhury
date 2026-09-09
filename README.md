@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://skrchowdhury.netlify.app/">
+  <a href="https://www.skrchowdhury.online/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF5D73&center=true&vCenter=true&width=560&lines=Mobile+App+%26+Web+Developer;React+Native+%7C+Next.js+%7C+Node.js;I+sing%2C+draw+and+read+books+%F0%9F%8E%A8;Always+shipping+something+new+%E2%9C%A8" alt="typing"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="[https://skrchowdhury.netlify.app/](https://www.skrchowdhury.online/)"><img src="https://img.shields.io/badge/portfolio-FF5D73?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://www.skrchowdhury.online/"><img src="https://img.shields.io/badge/portfolio-FF5D73?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/skrchowdhury"><img src="https://img.shields.io/badge/linkedin-0E0E16?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://instagram.com/skrchowdhury"><img src="https://img.shields.io/badge/instagram-0E0E16?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
   <a href="https://www.youtube.com/c/sakkhorchowdhury"><img src="https://img.shields.io/badge/youtube-0E0E16?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp;
