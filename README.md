@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skrchowdhury.netlify.app/"><img src="https://img.shields.io/badge/portfolio-FF5D73?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="[https://skrchowdhury.netlify.app/](https://www.skrchowdhury.online/)"><img src="https://img.shields.io/badge/portfolio-FF5D73?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
   <a href="https://linkedin.com/in/skrchowdhury"><img src="https://img.shields.io/badge/linkedin-0E0E16?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://instagram.com/skrchowdhury"><img src="https://img.shields.io/badge/instagram-0E0E16?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp;
   <a href="https://www.youtube.com/c/sakkhorchowdhury"><img src="https://img.shields.io/badge/youtube-0E0E16?style=flat-square&logo=youtube&logoColor=white"/></a>&nbsp;
