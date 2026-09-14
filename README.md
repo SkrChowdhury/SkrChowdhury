@@ -129,7 +129,7 @@ const sakkar = {
 ============================================================ -->
 
 <p align="center">
-  <samp>drawn &amp; coded by Sakkar</samp> · <a href="https://skrchowdhury.netlify.app/"><samp>skrchowdhury.netlify.app</samp></a>
+  <samp>drawn &amp; coded by Sakkar</samp> · <a href="https://www.skrchowdhury.online/"><samp>skrchowdhury.online</samp></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-FF5D73?style=flat-square" width="70" height="3"/>
